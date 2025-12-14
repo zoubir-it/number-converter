@@ -16,9 +16,5 @@ A Python program that converts integers into their English word representation.
 ```text
 Input: -123
 Output: minus one hundred and twenty-three
-## 🚀 Quick Start
 
-##
-
-cat README.md
 
