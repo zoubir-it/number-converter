@@ -8,13 +8,11 @@ A Python program that converts integers into their English word representation.
 - ✅ Interactive command-line interface
 - ✅ Proper British English formatting
 - ✅ Error handling for invalid input
-📌 Requirements
+
+## 📌 Requirements
 - Python 3.8 or higher
 
-🧪 Example
-
+## 🧪 Example
 ```text
 Input: -123
 Output: minus one hundred and twenty-three
-
-
